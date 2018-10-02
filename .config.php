@@ -10,14 +10,14 @@
 //基本设置-----------------------------------------------------------------------
 $System_Config['key'] = '209224407';			// !!! 瞎 jb 修改此key为随机字符串确保网站安全 !!!
 $System_Config['debug'] =  'false';  //  正式环境请确保为 false
-$System_Config['appName'] = '我是站点名';             //站点名称
+$System_Config['appName'] = '藏兵阁';             //站点名称
 $System_Config['baseUrl'] = 'http://url.com';            // 站点地址
 $System_Config['muKey'] = 'marisn';   //用于校验ss-go mu的请求，可以随意修改，但请保持前后端一致
 $System_Config['db_driver'] = 'mysql';		//数据库程序
 $System_Config['db_host'] = 'localhost'; //数据库地址
 $System_Config['db_database'] = 'sspanel';			//数据库名
 $System_Config['db_username'] = 'root';		//数据库用户名
-$System_Config['db_password'] = 'root';			//用户名对应的密码
+$System_Config['db_password'] = 'wulicx1217';			//用户名对应的密码
 $System_Config['enable_old_mode'] = 'true';			//兼容SS、SSR的过时协议
 
 
